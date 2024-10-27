@@ -1,0 +1,2 @@
+user:$2y$10$aV5fGz9wajeojYvIJZSmMenv/KyAGVxMocFe.aC2FqEYwk7KHxcYK:user@mail.com
+test:$2y$10$/vQI9.6uIyZfuqjXxu.1uuRRMBuWsA6YJz7qQ8Bl7YwjNfpKrmvZm:test@mail.com
